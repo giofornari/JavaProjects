@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Repo archiviata: il contenuto, con tutta la history, ora vive in **[giofornari/School](https://github.com/giofornari/School)**.
+
 # Java Lessons — School Projects 📚
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
